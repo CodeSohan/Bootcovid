@@ -1,0 +1,22 @@
+
+body{
+	width:auto;
+}
+.container{
+	 margin:auto;
+	 width:70%;
+	 text-align:center;
+	
+	}
+.card{
+	text-align:center;
+	
+}
+@media only screen and (max-width: 500px) {
+  .container{
+    width:100%;
+    
+  }
+  
+}
+
