@@ -1,6 +1,7 @@
 
 body{
 	width:auto;
+	background-color: #edebe4;
 }
 .container{
 	 margin:auto;
@@ -8,14 +9,24 @@ body{
 	 text-align:center;
 	
 	}
+	.row{
+		margin-bottom:50px;
+		margin-top:30px;
+	}
 .card{
 	text-align:center;
+
 	
 }
 @media only screen and (max-width: 500px) {
   .container{
     width:100%;
-    
+
+  }
+  .card{
+  	width:60%;
+  	margin:auto;
+  	margin-bottom: 20px;
   }
   
 }
