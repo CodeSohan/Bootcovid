@@ -1,0 +1,116 @@
+
+body{
+	width:auto;
+	background-color: #edebe4;
+
+}
+.container{
+	 margin:auto;
+	 width:70%;
+	 text-align:center;
+	
+	}
+	.col{
+		margin-bottom:50px;
+		margin-top:30px;
+	}
+	 .col-md{
+		margin-bottom:30px;
+		margin-top:30px;
+	}
+	.bg-dark{
+		color:white;
+	}
+
+
+
+
+.card{
+	text-align:center;
+    
+	
+}
+
+
+.bg-danger{
+	color:black;
+}
+.bg-succes{
+	background-color:#76c95d;#76c95d;
+	color:white;
+}
+.bg-warning{
+	color:black;
+}
+.bg-secondary{
+	color:white;
+}
+.bg-one{
+	
+	padding:1rem;
+}
+.about-container{
+	background-color:;
+	color:;
+}
+
+.about h1{
+	margin-top: 2rem;
+	margin-bottom:3rem;
+    color:#05386b;
+}
+
+
+.myimg{
+	
+}
+
+.myimg img{
+	
+}
+
+
+
+.myname{
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+    color:#05386b;
+    font-weight: bold;
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  
+  .container{
+  	width:100%;
+  }
+  .card{
+    
+  	margin:auto;
+
+  	
+  }
+  .global .col-md{
+  	width:60%;
+  	margin:auto;
+  }
+  .global{
+  	margin-top:1rem;
+  	margin-bottom: 0.5rem;
+  }
+  .col-md{
+  	margin-top:2rem;
+  	width:60%;
+  	margin:auto;
+  }
+  .row .col{
+  	width:100%;
+  	margin-bottom: 10px;
+  }
+  .about-container{
+  	width:100%;
+  }
+}
+
