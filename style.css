@@ -43,6 +43,7 @@ body{
 
 .bg-danger{
 	color:black;
+	color:white;
 }
 .bg-succes{
 	background-color:#76c95d;#76c95d;
@@ -120,6 +121,9 @@ body{
   }
   .about-container{
   	width:100%;
+  }
+  .myname{
+  	margin-top:1.7rem;
   }
 }
 
