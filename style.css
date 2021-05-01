@@ -4,6 +4,15 @@ body{
 	background-color: #edebe4;
 
 }
+.fas{
+    	animation:blink 1s infinite;
+    	color:red;
+    }
+
+   @keyframes blink{
+   	from{opacity:0;}
+   	to{opacity:1;}
+   }
 .container{
 	 margin:auto;
 	 width:70%;
